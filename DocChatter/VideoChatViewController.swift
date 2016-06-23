@@ -13,12 +13,14 @@ import OpenTok
 let videoWidth : CGFloat = 320
 let videoHeight : CGFloat = 240
 
+// OpenTok API Information
+
 // 2016-06-19 : OpenTok API key
-let ApiKey = "45608182"
+let ApiKey = "add your OpenTok API key here"
 // 2016-06-19 : generated session ID
-let SessionID = "1_MX40NTYwODE4Mn5-MTQ2NjEyMjY0Mzc4N351Yk1IUWZzdjJyT0QzcDRjelN3cUdFOHJ-fg"
+let SessionID = "add your session ID here"
 // 2016-06-19 : generated token
-let Token = "T1==cGFydG5lcl9pZD00NTYwODE4MiZzaWc9ZDMyOTUzZGExMDg3YTNkYjg4OWFhYWQwYzIyNjhhOGUzMTVmOTI1MzpzZXNzaW9uX2lkPTFfTVg0ME5UWXdPREU0TW41LU1UUTJOakV5TWpZME16YzROMzUxWWsxSVVXWnpkakp5VDBRemNEUmplbE4zY1VkRk9ISi1mZyZjcmVhdGVfdGltZT0xNDY2MTIyNjY1Jm5vbmNlPTAuMDE1ODM4MDU1ODcxNDI3MDYmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTQ2ODcxNDgwNA=="
+let Token = "Add your Token here"
 
 // 2016-06-19 : Change to YES to subscribe to your own stream.
 let SubscribeToSelf = false
